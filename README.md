@@ -1,4 +1,5 @@
 # backpacktfapi
+<img src="https://backpack.tf/images/tf-icon.png" width="120"><br>
 BackpackTF Python API for bots and applications.
 
 # Important Notices
